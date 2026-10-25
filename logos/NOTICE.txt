@@ -1,0 +1,4 @@
+Brand icons from devicon v2.16.0 (MIT, see LICENSE-devicon.txt)
+and simple-icons v13.21.0 (CC0-1.0, see LICENSE-simple-icons.md).
+All product names, logos and brands are property of their respective owners and are used
+here only to identify the technologies listed.
